@@ -14684,5 +14684,97 @@
         },
         "color": "#443e38",
         "aliases": []
-    }
+    },
+    {
+    "name": "powerbi",
+    "altnames": [],
+    "tags": [
+      "data",
+      "microsoft",
+      "visualization",
+      "business-intelligence",
+      "desktop"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ],
+      "font": []
+    },
+    "color": "#F2C811",
+    "aliases": [
+      {
+        "base": "original",
+        "alias": "original-wordmark"
+      }
+    ]
+  },
+  {
+    "name": "excel",
+    "altnames": [
+      "ms-excel"
+    ],
+    "tags": [
+      "spreadsheet",
+      "microsoft",
+      "office",
+      "data"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ],
+      "font": []
+    },
+    "color": "#217346",
+    "aliases": []
+  },
+  {
+    "name": "seaborn",
+    "altnames": [],
+    "tags": [
+      "python",
+      "visualization",
+      "data",
+      "plotting"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ],
+      "font": []
+    },
+    "color": "#1f77b4",
+    "aliases": [
+      {
+        "base": "original",
+        "alias": "original-wordmark"
+      }
+    ]
+  },
+  {
+    "name": "tableau",
+    "altnames": [],
+    "tags": [
+      "visualization",
+      "analytics",
+      "business-intelligence"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ],
+      "font": []
+    },
+    "color": "#E97627",
+    "aliases": [
+      {
+        "base": "original",
+        "alias": "original-wordmark"
+      }
+    ]
+  }
 ]
